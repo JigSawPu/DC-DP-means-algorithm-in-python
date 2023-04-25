@@ -4,4 +4,4 @@ https://proceedings.mlr.press/v180/dinari22b/dinari22b.pdf
 
 Test the algorithm on synthetic 2D data of N = 1000 points genereated from K isotropic gaussians. Demostrate how different random initializations yield different results. Demostrate the effect of changing values of ƛ.
 
-Also, test the algorithm on rgb values of a mandril image and display the results by replacing color of each pixel with the value of centrodis of cluster the pixel ws assigned to.
+Also, test the algorithm on rgb values of a mandril image and display the results by replacing color of each pixel with the value of centroid of cluster the pixel was assigned to.
